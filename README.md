@@ -3,7 +3,7 @@ how I learned c++ and why?
 
 
 
-<details><summary>**MATERIALS**</summary>
+<details><summary>MATERIALS</summary>
 
    1. [C++ Book](https://metanit.com/cpp/tutorial/1.1.php)
    1. [C++ Youtube Tutorial](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
