@@ -1,6 +1,5 @@
 ![Banner](https://cdn.discordapp.com/attachments/736633764930912257/1019465378281300019/6209dc457e6148e8.png)
-# LearnCPP
-How Im learning c++ and why?
+# How Im learning c++ and why?
 
 <details><summary>MATERIALS</summary>
 
